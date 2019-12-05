@@ -1,7 +1,3 @@
-# ETH-Contract
-
-The world's leading technology, today's DAPP trend has arrived
-
 # ABOUT ISC-ETH
 
 Smart contracts were proposed by Nick Saab as early as the 1990s, and have not been practically applied due to the lack of a credible execution environment. After the emergence of blockchain technology, people discovered that blockchain is inherently capable of providing a trusted execution environment for smart contracts. Vitalik, the founder of Ethereum, first saw the integration of blockchain with smart contracts and blockchain, and released the world-leading technology of "Ethereum: the next generation of smart contracts and decentralized application platforms." Today's DAPP trend has arrived Unstoppable, it will create a new wave of wealth system worldwide!
